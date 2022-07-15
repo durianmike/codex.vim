@@ -1,1 +1,1 @@
-nnoremap <leader>g :call <SID>GetText()<CR>
+nnoremap <leader>o :call GetText()<CR>
